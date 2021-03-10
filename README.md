@@ -13,8 +13,8 @@
 ***
 ##### Tools/Methods:
 
-  -Forex Python API
-  -Tkinter
+  - Forex Python API
+  - Tkinter
 *** 
 ##### Basic Instruction:
 
