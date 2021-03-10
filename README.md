@@ -25,3 +25,5 @@
 
   - pip install forex-python
 ***
+##### I hope you like our effort
+##### THANK YOU
