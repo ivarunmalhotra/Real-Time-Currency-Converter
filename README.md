@@ -1,5 +1,5 @@
 ***
-# Real Time Currency Converter (using Tkinter)
+## Real Time Currency Converter (using Tkinter)
 ***
 #### Made By:
 
