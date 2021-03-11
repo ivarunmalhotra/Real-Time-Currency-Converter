@@ -1,30 +1,30 @@
 ***
 # Real Time Currency Converter (using Tkinter)
 ***
-##### Made By:
+#### Made By:
 
-  - Prateek Bhambri
-  - Varun Malhotra(Me)
-  - Sawan Sood
+    - Prateek Bhambri
+    - Varun Malhotra(Me)
+    - Sawan Sood
 ***
-##### Programming Language:
+#### Programming Language:
   
-  - Python
+    - Python
 ***
-##### Tools/Methods:
+#### Tools/Methods:
 
-  - Forex Python API
-  - Tkinter
+    - Forex Python API
+    - Tkinter
 *** 
-##### Basic Instruction:
+#### Basic Instruction:
 
-  - Need to install packages before running the code
-  - package name: forex-python
+    - Need to install packages before running the code
+    - package name: forex-python
 ***  
-##### Command for installing packages:
+#### Command for installing packages:
 
-  - pip install forex-python
+    - pip install forex-python
 ***
-##### I hope you like our effort.
-##### THANK YOU
+#### I hope you like our effort.
+#### THANK YOU
 ***
